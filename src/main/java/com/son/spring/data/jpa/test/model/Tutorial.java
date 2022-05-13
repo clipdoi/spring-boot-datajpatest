@@ -1,4 +1,4 @@
-package com.bezkoder.spring.data.jpa.test.model;
+package com.son.spring.data.jpa.test.model;
 
 import javax.persistence.*;
 
